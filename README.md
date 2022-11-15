@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shalomango
 - 👀 I’m interested in computer science
-- 🌱 I’m currently learning at Epitech Bénin
+- 🌱 I’m currently learning at Epitech Paris
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : email => Shalom.ango@epitech.eu
 
